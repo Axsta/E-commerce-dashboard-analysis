@@ -1,11 +1,16 @@
 # Shopify Monthly Summary Dashboard
 
-As the owner of a Shopify store, the business owner expressed a desire to increase profits by focusing on selling more. However, when asked about leveraging past performance data, he admitted to not paying attention to insights from the previous year, highlighting a gap in data-driven decision-making. He recognizes the need for someone who can analyze historical trends, translate those insights into actionable strategies, and provide business recommendations that enable smarter, more calculated decisions for long-term growth.
-To support this, the owner provided sales data detailing all items sold and their associated revenue for the first two quarters of 2025.
+This dashboard provides a comprehensive overview of the store's performance for the month of June 2025, offering key insights into sales trends, customer behavior, and product category performance.
 
- ---
+The dashboard includes:
 
-The analysis below presents a summary of key trends and my thought process in identifying them, using Looker Studio and Google Sheets. It concludes with a set of strategic business recommendations aimed at increasing profitability and improving customer retention.
+* Sales trend analysis to identify peak and low-performing days.
+* Category-based insights, showcasing Accessories as the highest-selling category and Electronics as the most profitable.
+* Customer segmentation, breaking down revenue and quantity by new vs. returning users.
+* Profitability and retention trends, focusing on top returning customers, purchase frequency, and customer scores.
+* Churn and loyalty analysis, evaluating repeat purchase rates and identifying early signs of customer retention challenges.
+
+The visualizations and data-driven narratives help stakeholders understand the factors driving performance and guide strategic decisions to improve sales, engagement, and customer retention.
 
 [Click here to re-direct to the dashboard](https://lookerstudio.google.com/s/sDzdzrjuc0k)
 
